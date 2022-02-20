@@ -30,6 +30,13 @@
 .ui-menu-color-download {
     background-color: #525252;
 }
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
 
 .bg-color-personal-info {
     background-color: #f4f4f4;
@@ -360,3 +367,5 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+#map {min-height: 360px;}
